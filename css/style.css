@@ -1,0 +1,30 @@
+
+#wrapper {
+
+    width: 1000px;
+    margin: 10px;
+    background: #1c7430;
+    padding: 20px;
+}
+
+.chat_wrapper {
+
+    width: 60%;
+    margin: 10px auto;
+    background: #f8f9fa;
+
+}
+
+#chat {
+
+    min-height: 500px;
+    border: 1pc;
+    padding: 10px;
+}
+
+.textarea {
+
+    width: 100%;
+    padding: 10px;
+margin-top: 10px;
+}
