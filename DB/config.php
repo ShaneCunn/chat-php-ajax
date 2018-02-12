@@ -6,7 +6,6 @@
  * Time: 10:18
  */
 
-define('Project_Name', 'Chat PHP website');
 define('DB_SERVER', 'localhost');
 
 define('DB_USERNAME', 'root');
